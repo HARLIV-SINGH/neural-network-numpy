@@ -2,7 +2,8 @@
 
 This repository implements a **neural network** from scratch using only **NumPy**. It trains a model on the **Heart Disease dataset** using gradient descent, with no reliance on external libraries.
 
-The goal is to practice the **mathematical foundations** that make up neural networks: layer creation, activation functions, loss calculation, forward pass, backpropagation and gradient descent 
+The goal is to practice the **mathematical foundations** that make up neural networks: forward pass, loss calculation, gradient descent, and backpropagation.
+
 ---
 
 ## Features
